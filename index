@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<meta charset="UTF-8">
+<title>MarromVendas - Página Oficial</title>
+</head>
+<body>
+<h1>MarromVendas</h1>
+<p>Bem-vindo ao site oficial MarromVendas.</p>
+<p>Aqui você encontra nossa Política de Privacidade e Termos de Uso.</p>
+
+<ul>
+<li><a href="politica-de-privacidade.html">Política de Privacidade</a></li>
+<li><a href="termos-de-uso.html">Termos de Uso</a></li>
+</ul>
+
+</body>
+</html>
